@@ -36,7 +36,7 @@ public:
 
   Shop() {
 
-    cout << "SELAMAT DATANG" << endl;
+    cout << "SELAMAT DATANG DI TOKO BU INAH" << endl;
     wait();
 
     bool isRun = 1;
